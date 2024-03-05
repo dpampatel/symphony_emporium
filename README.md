@@ -1,0 +1,2 @@
+# symphony_emporium
+wordpress
